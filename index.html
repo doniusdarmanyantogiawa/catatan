@@ -45,12 +45,13 @@
                         <i class="fas fa-info-circle text-base"></i>
                         <span class="text-xs font-semibold uppercase tracking-wider">About</span>
                     </button>
-                    <button onclick="logout()" class="text-slate-400 hover:text-rose-500 text-xs font-bold uppercase ml-2">Logout</button>
                     <div class="h-6 w-[1px] bg-slate-200"></div>
                     <div>
                         <h1 class="text-2xl font-bold text-slate-800 flex items-center">Finance<span class="text-rose-600">Flow</span></h1>
                         <p class="text-slate-500 text-xs">Kelola pemasukan dan pengeluaran Anda dengan mudah.</p>
                     </div>
+                    <div class="h-6 w-[1px] bg-slate-200"></div>
+                    <button onclick="logout()" class="text-slate-400 hover:text-rose-500 text-xs font-bold uppercase ml-2">Logout</button>
                 </div>
                 <button onclick="openModal()" class="bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded-lg text-sm font-semibold transition-all flex items-center justify-center gap-2 shadow-lg shadow-indigo-200">
                     <i class="fas fa-plus text-xs"></i> Tambah Transaksi
@@ -80,13 +81,88 @@
         </div>
     </div>
 
-    <div id="modal-about" class="fixed inset-0 bg-slate-900/50 hidden backdrop-blur-sm z-[60] flex items-center justify-center p-4">
+    <!-- <div id="modal-about" class="fixed inset-0 bg-slate-900/50 hidden backdrop-blur-sm z-[60] flex items-center justify-center p-4">
         <div class="bg-white rounded-xl w-full max-w-sm shadow-2xl p-6 text-center">
             <h2 class="text-xl font-bold text-slate-800 mb-2">Tentang Pengembang</h2>
-            <p class="text-slate-500 text-sm mb-6">Halo! Saya <b>Donius Darman</b>.</p>
+            <p class="text-slate-500 text-sm mb-6">Halo! Saya <b>Donius Darman Giawa</b>.</p>
             <button onclick="closeAbout()" class="w-full bg-slate-800 text-white py-2 rounded-lg font-semibold">Tutup</button>
         </div>
+    </div> -->
+
+    <!-- About -->
+    <div id="modal-about" class="fixed inset-0 bg-slate-900/60 hidden backdrop-blur-md z-[60] flex items-center justify-center p-4">
+        <div class="bg-white rounded-2xl w-full max-w-lg shadow-2xl overflow-hidden flex flex-col max-h-[90vh]">
+            <div class="bg-indigo-600 p-6 text-white text-center">
+                <div class="w-20 h-20 bg-white/20 rounded-full flex items-center justify-center mx-auto mb-3 backdrop-blur-sm">
+                    <i class="fas fa-rocket text-3xl"></i>
+                </div>
+                <h2 class="text-2xl font-bold">Tentang Finance<span style="color:red;">Flow</span></p></h2>
+                <p class="text-indigo-100 text-xs mt-1 uppercase tracking-widest font-medium">Visi, Misi & Pengembangan</p>
+            </div>
+    
+            <div class="p-6 overflow-y-auto text-left space-y-6">
+                <section>
+                    <h3 class="text-sm font-bold text-slate-800 uppercase mb-2 flex items-center gap-2">
+                        <!-- <i class="fas fa-user-code text-indigo-200"></i>Pengembang -->
+                        Pengembang
+                    </h3>
+                    <p class="text-slate-600 text-sm leading-relaxed">
+                        Halo! Saya <b>Donius Darmanyanto Giawa</b>. Sebagai pengembang aplikasi ini, saya berfokus pada penciptaan solusi digital yang sederhana namun memberikan dampak nyata bagi manajemen finansial pribadi.
+                    </p>
+                </section>
+    
+                <section>
+                    <h3 class="text-sm font-bold text-slate-800 uppercase mb-2 flex items-center gap-2">
+                        <i class="fas fa-bullseye text-indigo-500"></i> Tujuan Utama
+                    </h3>
+                    <p class="text-slate-600 text-sm leading-relaxed">
+                        <b>FinanceFlow</b> dirancang sebagai instrumen pencatatan keuangan yang transparan dan mandiri. Fokus utama aplikasi ini adalah:
+                    </p>
+                    <ul class="mt-2 space-y-2 text-slate-600 text-sm">
+                        <li class="flex items-start gap-2">
+                            <i class="fas fa-check-circle text-emerald-500 mt-1"></i>
+                            <span><b>Manajemen Arus Kas:</b> Memantau setiap rupiah yang masuk dan keluar secara <i>real-time</i>.</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <i class="fas fa-check-circle text-emerald-500 mt-1"></i>
+                            <span><b>Keamanan Data:</b> Menggunakan integrasi GitHub API untuk penyimpanan data privat yang aman.</span>
+                        </li>
+                        <li class="flex items-start gap-2">
+                            <i class="fas fa-check-circle text-emerald-500 mt-1"></i>
+                            <span><b>Efisiensi Akses:</b> Aplikasi ringan yang dapat diakses dari perangkat mana pun melalui web.</span>
+                        </li>
+                    </ul>
+                </section>
+    
+                <section class="bg-indigo-50 p-4 rounded-xl border border-indigo-100">
+                    <h3 class="text-sm font-bold text-indigo-800 uppercase mb-2 flex items-center gap-2">
+                        <i class="fas fa-lightbulb"></i> Harapan Masa Depan
+                    </h3>
+                    <div class="space-y-3 text-indigo-900/80 text-sm leading-relaxed">
+                        <p>Ke depannya, FinanceFlow direncanakan untuk bertransformasi lebih jauh dengan:</p>
+                        <div class="grid grid-cols-1 gap-2">
+                            <div class="flex items-center gap-2 bg-white/50 p-2 rounded-lg text-xs font-semibold uppercase tracking-wider">
+                                <i class="fas fa-chart-pie text-indigo-600"></i> Visualisasi Grafik Analitik
+                            </div>
+                            <div class="flex items-center gap-2 bg-white/50 p-2 rounded-lg text-xs font-semibold uppercase tracking-wider">
+                                <i class="fas fa-file-export text-indigo-600"></i> Ekspor Laporan PDF/Excel
+                            </div>
+                            <div class="flex items-center gap-2 bg-white/50 p-2 rounded-lg text-xs font-semibold uppercase tracking-wider">
+                                <i class="fas fa-robot text-indigo-600"></i> Prediksi Anggaran Berbasis AI
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+    
+            <div class="p-4 bg-slate-50 border-t border-slate-100">
+                <button onclick="closeAbout()" class="w-full bg-slate-800 hover:bg-slate-900 text-white py-3 rounded-xl font-bold shadow-lg transition-all active:scale-95">
+                    Mengerti & Tutup
+                </button>
+            </div>
+        </div>
     </div>
+    <!-- End About -->
 
     <div id="modal" class="fixed inset-0 bg-slate-900/50 hidden backdrop-blur-sm z-50 flex items-center justify-center p-4">
         <div class="bg-white rounded-xl w-full max-w-md shadow-2xl overflow-hidden">
