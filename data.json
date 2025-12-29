@@ -1,69 +1,16 @@
 [
-<<<<<<< HEAD
-    {
-      "date": "2025-12-29",
-      "description": "Pemasukan Gaji",
-      "type": "income",
-      "category": "Gaji Bulanan",
-      "amount": "4000000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Pemasukan Gaji",
-      "type": "income",
-      "category": "Gaji Bulanan",
-      "amount": "3500000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Pemasukan Gaji",
-      "type": "income",
-      "category": "Gaji Bulanan",
-      "amount": "5000000000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Pengeluaran",
-      "type": "expense",
-      "category": "Minum",
-      "amount": "1700000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Beli Makan",
-      "type": "expense",
-      "category": "Makan",
-      "amount": "600000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Pengeluaran Beli Crypto",
-      "type": "expense",
-      "category": "Beli Crypto",
-      "amount": "100000000"
-    },
-    {
-      "date": "2025-12-29",
-      "description": "Anak Trend Beli mobil",
-      "type": "expense",
-      "category": "Mobil",
-      "amount": "6000000000"
-    },
-    {
-      "date": "2024-01-30",
-      "description": "Mobil",
-      "type": "expense",
-      "category": "Mobil",
-      "amount": "3000000"
-    }
-  ]
-=======
   {
     "date": "2025-12-29",
-    "description": "Dd",
-    "type": "income",
-    "category": "Dd",
-    "amount": "5000"
+    "description": "Makan",
+    "type": "expense",
+    "category": "Makan",
+    "amount": "80000"
+  },
+  {
+    "date": "2025-12-29",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Makan",
+    "amount": "300000"
   }
 ]
->>>>>>> 944e44c507f0641f3e6ecb08a987fde43009ad33
