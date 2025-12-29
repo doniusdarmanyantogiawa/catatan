@@ -26,5 +26,12 @@
     "type": "expense",
     "category": "Minum",
     "amount": "100000"
+  },
+  {
+    "date": "2025-12-29",
+    "description": "Beli Makan",
+    "type": "expense",
+    "category": "Makan",
+    "amount": "600000"
   }
 ]
