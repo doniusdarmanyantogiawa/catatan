@@ -25,7 +25,7 @@
     "description": "Pengeluaran",
     "type": "expense",
     "category": "Minum",
-    "amount": "700000"
+    "amount": "1700000"
   },
   {
     "date": "2025-12-29",
@@ -33,12 +33,5 @@
     "type": "expense",
     "category": "Makan",
     "amount": "600000"
-  },
-  {
-    "date": "2025-12-28",
-    "description": "Ganji Tambahan",
-    "type": "income",
-    "category": "Tambahan Gaji",
-    "amount": "300000"
   }
 ]
