@@ -1,5 +1,12 @@
 [
   {
+    "date": "2025-12-26",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Sepatu",
+    "amount": "300000"
+  },
+  {
     "date": "2025-12-23",
     "description": "Gaji Pokok",
     "type": "income",
