@@ -1,4 +1,5 @@
 [
+<<<<<<< HEAD
     {
       "date": "2025-12-29",
       "description": "Pemasukan Gaji",
@@ -56,3 +57,13 @@
       "amount": "3000000"
     }
   ]
+=======
+  {
+    "date": "2025-12-29",
+    "description": "Dd",
+    "type": "income",
+    "category": "Dd",
+    "amount": "5000"
+  }
+]
+>>>>>>> 944e44c507f0641f3e6ecb08a987fde43009ad33

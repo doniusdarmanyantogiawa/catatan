@@ -1,0 +1,23 @@
+Tambahkan semua perubahan ke daftar tunggu:
+
+Bash
+
+git add .
+Beri label pada perubahan Anda (Commit):
+
+Bash
+
+git commit -m "Perbaikan bug tampilan dan pembersihan data json"
+Kirim ke GitHub:
+
+Bash
+
+git push origin main
+(Catatan: Jika branch Anda namanya master, gunakan git push origin master)
+
+Bagaimana jika muncul error saat git push?
+Karena sebelumnya file data.json Anda sempat mengalami conflict (error JSON yang ada tanda <<<<<<<), ada kemungkinan GitHub menolak push biasa. Jika itu terjadi, gunakan perintah Force Push ini:
+
+Bash
+
+git push origin main --force
