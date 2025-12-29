@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "date": "2025-12-23",
+    "description": "Gaji Pokok",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "5000000"
+  }
+]
