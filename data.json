@@ -26,5 +26,12 @@
     "type": "expense",
     "category": "Beli Baju",
     "amount": "500000"
+  },
+  {
+    "date": "2022-12-30",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Profit Investasi",
+    "amount": "15000000"
   }
 ]
