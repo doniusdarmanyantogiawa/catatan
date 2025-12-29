@@ -1,13 +1,6 @@
 [
   {
     "date": "2025-12-29",
-    "description": "Makan",
-    "type": "expense",
-    "category": "Makan",
-    "amount": "80000"
-  },
-  {
-    "date": "2025-12-29",
     "description": "Pengeluaran",
     "type": "expense",
     "category": "Makan",
