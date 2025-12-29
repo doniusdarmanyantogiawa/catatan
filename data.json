@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "date": "2025-12-29",
+    "description": "Dd",
+    "type": "income",
+    "category": "Dd",
+    "amount": "5000"
+  }
+]
