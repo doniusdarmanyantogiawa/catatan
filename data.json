@@ -40,5 +40,12 @@
     "type": "expense",
     "category": "Beli Crypto",
     "amount": "100000000"
+  },
+  {
+    "date": "2025-12-29",
+    "description": "Anak Trend Beli mobil",
+    "type": "expense",
+    "category": "Mobil",
+    "amount": "6000000000"
   }
 ]
