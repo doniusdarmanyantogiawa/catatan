@@ -5,5 +5,12 @@
     "type": "income",
     "category": "Gaji",
     "amount": "5000000"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Beli Baju",
+    "amount": "500000"
   }
 ]
