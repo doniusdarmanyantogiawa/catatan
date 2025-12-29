@@ -1,44 +1,9 @@
 [
   {
-    "date": "2025-12-30",
-    "description": "Pengeluaran ",
-    "type": "expense",
-    "category": "Minum",
-    "amount": "85000"
-  },
-  {
-    "date": "2025-12-27",
-    "description": "Pemasukan",
+    "date": "2025-12-29",
+    "description": "Pemasukan Gaji",
     "type": "income",
-    "category": "Sembako",
-    "amount": "500000"
-  },
-  {
-    "date": "2025-12-26",
-    "description": "Pengeluaran",
-    "type": "expense",
-    "category": "Sepatu",
-    "amount": "300000"
-  },
-  {
-    "date": "2025-12-23",
-    "description": "Gaji Pokok",
-    "type": "income",
-    "category": "Gaji",
-    "amount": "5000000"
-  },
-  {
-    "date": "2025-12-08",
-    "description": "Pengeluaran",
-    "type": "income",
-    "category": "Makan",
-    "amount": "50000"
-  },
-  {
-    "date": "2022-12-30",
-    "description": "Pemasukan",
-    "type": "income",
-    "category": "Profit Investasi",
-    "amount": "15000000"
+    "category": "Gaji Bulanan",
+    "amount": "3000000"
   }
 ]
