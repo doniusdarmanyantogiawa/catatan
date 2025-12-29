@@ -19,12 +19,5 @@
     "type": "income",
     "category": "Gaji Bulanan",
     "amount": "5000000000"
-  },
-  {
-    "date": "2025-12-28",
-    "description": "Pemasukan Gaji",
-    "type": "income",
-    "category": "Gaji Bulanan",
-    "amount": "3500000"
   }
 ]
