@@ -68,5 +68,12 @@
     "type": "income",
     "category": "Jajan",
     "amount": "200000"
+  },
+  {
+    "date": "2025-12-29",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Investasi",
+    "amount": "320000"
   }
 ]
