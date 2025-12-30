@@ -154,10 +154,31 @@
     "amount": "200000"
   },
   {
+    "date": "2025-10-30",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Tip ",
+    "amount": "1200000"
+  },
+  {
     "date": "2025-10-24",
     "description": "Pemasukan",
     "type": "income",
     "category": "Profit Investasi",
     "amount": "2000000"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Kost",
+    "amount": "400000"
+  },
+  {
+    "date": "2025-10-10",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Bonus",
+    "amount": "1500000"
   }
 ]
