@@ -79,7 +79,7 @@
   {
     "date": "2025-12-30",
     "description": "Pengeluaran",
-    "type": "income",
+    "type": "expense",
     "category": "Tak terduga",
     "amount": "1000000"
   },
@@ -89,6 +89,13 @@
     "type": "expense",
     "category": "Investasi",
     "amount": "320000"
+  },
+  {
+    "date": "2025-12-20",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kost",
+    "amount": "400000"
   },
   {
     "date": "2025-12-16",
