@@ -119,6 +119,13 @@
     "amount": "3000000"
   },
   {
+    "date": "2025-11-15",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Buku",
+    "amount": "300000"
+  },
+  {
     "date": "2025-11-01",
     "description": "Jajan",
     "type": "expense",
