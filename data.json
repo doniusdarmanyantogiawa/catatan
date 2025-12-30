@@ -84,6 +84,13 @@
     "amount": "1000000"
   },
   {
+    "date": "2025-12-30",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Sedekah",
+    "amount": "3000000"
+  },
+  {
     "date": "2025-12-29",
     "description": "Pengeluaran",
     "type": "expense",
@@ -102,6 +109,13 @@
     "description": "Pengeluaran",
     "type": "income",
     "category": "Sedekah",
+    "amount": "200000"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Tip",
     "amount": "200000"
   },
   {
@@ -124,6 +138,13 @@
     "type": "income",
     "category": "Buku",
     "amount": "300000"
+  },
+  {
+    "date": "2025-11-12",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Bonus kerja",
+    "amount": "500000"
   },
   {
     "date": "2025-11-01",
