@@ -26,5 +26,12 @@
     "type": "income",
     "category": "THR",
     "amount": "3000000"
+  },
+  {
+    "date": "2025-12-30",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Bonus",
+    "amount": "360000"
   }
 ]
