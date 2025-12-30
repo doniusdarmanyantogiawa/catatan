@@ -105,6 +105,13 @@
     "amount": "200000"
   },
   {
+    "date": "2025-11-20",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kost",
+    "amount": "400000"
+  },
+  {
     "date": "2025-11-19",
     "description": "Pemasukan",
     "type": "income",
