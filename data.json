@@ -152,5 +152,12 @@
     "type": "expense",
     "category": "Jajan",
     "amount": "200000"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Profit Investasi",
+    "amount": "2000000"
   }
 ]
