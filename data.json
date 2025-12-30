@@ -103,5 +103,12 @@
     "type": "income",
     "category": "Sedekah",
     "amount": "200000"
+  },
+  {
+    "date": "2025-11-19",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "3000000"
   }
 ]
