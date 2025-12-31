@@ -84,13 +84,6 @@
     "amount": "400000"
   },
   {
-    "date": "2025-11-19",
-    "description": "Pemasukan",
-    "type": "income",
-    "category": "Gaji",
-    "amount": "3000000"
-  },
-  {
     "date": "2025-11-15",
     "description": "Pengeluaran",
     "type": "income",
