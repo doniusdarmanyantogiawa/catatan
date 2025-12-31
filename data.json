@@ -1,13 +1,6 @@
 [
   {
     "date": "2025-12-31",
-    "description": "Pengeluaran",
-    "type": "expense",
-    "category": "Makan",
-    "amount": "100000"
-  },
-  {
-    "date": "2025-12-31",
     "description": "Pemasukan",
     "type": "income",
     "category": "Gaji",
