@@ -103,12 +103,5 @@
     "type": "expense",
     "category": "Jajan",
     "amount": "200000"
-  },
-  {
-    "date": "2025-10-20",
-    "description": "Pengeluaran",
-    "type": "income",
-    "category": "Kost",
-    "amount": "400000"
   }
 ]
