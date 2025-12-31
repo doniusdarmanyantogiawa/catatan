@@ -1,10 +1,10 @@
 [
   {
-    "date": "2025-12-30",
-    "description": "Profit",
+    "date": "2026-01-01",
+    "description": "Patungan",
     "type": "income",
-    "category": "Investasi",
-    "amount": "200000"
+    "category": "Rokok",
+    "amount": "34000"
   },
   {
     "date": "2025-12-30",
@@ -47,12 +47,5 @@
     "type": "expense",
     "category": "Investasi",
     "amount": "320000"
-  },
-  {
-    "date": "2025-12-20",
-    "description": "Pengeluaran",
-    "type": "expense",
-    "category": "Kost",
-    "amount": "400000"
   }
 ]
