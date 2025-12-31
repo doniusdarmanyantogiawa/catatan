@@ -159,12 +159,5 @@
     "type": "income",
     "category": "Kost",
     "amount": "400000"
-  },
-  {
-    "date": "2025-10-10",
-    "description": "Pemasukan",
-    "type": "income",
-    "category": "Bonus",
-    "amount": "1500000"
   }
 ]
