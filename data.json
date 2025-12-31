@@ -70,13 +70,6 @@
     "amount": "400000"
   },
   {
-    "date": "2025-11-12",
-    "description": "Pemasukan",
-    "type": "income",
-    "category": "Bonus kerja",
-    "amount": "500000"
-  },
-  {
     "date": "2025-11-01",
     "description": "Jajan",
     "type": "expense",
