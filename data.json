@@ -70,25 +70,11 @@
     "amount": "200000"
   },
   {
-    "date": "2025-11-29",
-    "description": "Pemasukan",
-    "type": "income",
-    "category": "Tip",
-    "amount": "200000"
-  },
-  {
     "date": "2025-11-20",
     "description": "Pengeluaran",
     "type": "expense",
     "category": "Kost",
     "amount": "400000"
-  },
-  {
-    "date": "2025-11-15",
-    "description": "Pengeluaran",
-    "type": "income",
-    "category": "Buku",
-    "amount": "300000"
   },
   {
     "date": "2025-11-12",
