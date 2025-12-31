@@ -23,13 +23,6 @@
   {
     "date": "2025-12-30",
     "description": "Pengeluaran",
-    "type": "income",
-    "category": "Jajan",
-    "amount": "200000"
-  },
-  {
-    "date": "2025-12-30",
-    "description": "Pengeluaran",
     "type": "expense",
     "category": "Jalan jalan",
     "amount": "300000"
