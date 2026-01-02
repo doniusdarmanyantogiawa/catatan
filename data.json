@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-02",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Jajan",
+    "amount": "29000"
+  },
+  {
     "date": "2026-01-01",
     "description": "Patungan",
     "type": "expense",
