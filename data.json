@@ -2,7 +2,7 @@
   {
     "date": "2026-01-03",
     "description": "Pengeluaran",
-    "type": "income",
+    "type": "expense",
     "category": "Berbagi",
     "amount": "50000"
   },
