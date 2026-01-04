@@ -7,6 +7,13 @@
     "amount": "14000"
   },
   {
+    "date": "2026-01-04",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Pemberian",
+    "amount": "50000"
+  },
+  {
     "date": "2026-01-03",
     "description": "Pengeluaran",
     "type": "expense",
