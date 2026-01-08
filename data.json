@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-07",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Makan + Isi Galon",
+    "amount": "20000"
+  },
+  {
     "date": "2026-01-05",
     "description": "Pengeluaran",
     "type": "expense",
