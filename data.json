@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-08",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Rinso + Odol + Kopi",
+    "amount": "19000"
+  },
+  {
     "date": "2026-01-07",
     "description": "Pengeluaran",
     "type": "expense",
