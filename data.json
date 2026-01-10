@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-10",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Makan + Kopi + Telur  + Kerupuk",
+    "amount": "32000"
+  },
+  {
     "date": "2026-01-09",
     "description": "Pengeluaran",
     "type": "expense",
