@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-11",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Traktir Makan",
+    "amount": "57000"
+  },
+  {
     "date": "2026-01-10",
     "description": "Pengeluaran",
     "type": "expense",
