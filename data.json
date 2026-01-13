@@ -7,6 +7,13 @@
     "amount": "69000"
   },
   {
+    "date": "2026-01-12",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Pulsa",
+    "amount": "26500"
+  },
+  {
     "date": "2026-01-11",
     "description": "Pengeluaran",
     "type": "expense",
