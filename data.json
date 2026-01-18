@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-18",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "500000"
+  },
+  {
     "date": "2026-01-14",
     "description": "Pengeluaran",
     "type": "expense",
