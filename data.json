@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-01-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Makan + Ongkos",
+    "amount": "36000"
+  },
+  {
     "date": "2026-01-13",
     "description": "Pemasukan",
     "type": "income",
