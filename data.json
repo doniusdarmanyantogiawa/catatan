@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-02-15",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Buah",
+    "amount": "9000"
+  },
+  {
     "date": "2026-02-14",
     "description": "Pemasukan",
     "type": "income",
