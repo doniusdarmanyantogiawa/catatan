@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-02-19",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kopi + Buah",
+    "amount": "20000"
+  },
+  {
     "date": "2026-02-15",
     "description": "Pengeluaran",
     "type": "expense",
