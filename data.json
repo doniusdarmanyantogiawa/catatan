@@ -7,6 +7,13 @@
     "amount": "16500"
   },
   {
+    "date": "2026-02-21",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Roti + Buah",
+    "amount": "20000"
+  },
+  {
     "date": "2026-02-19",
     "description": "Pengeluaran",
     "type": "expense",
