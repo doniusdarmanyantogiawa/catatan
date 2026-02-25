@@ -21,6 +21,13 @@
     "amount": "50000"
   },
   {
+    "date": "2026-02-25",
+    "description": "Pengeluaran ",
+    "type": "expense",
+    "category": "Bantu Acara",
+    "amount": "500000"
+  },
+  {
     "date": "2026-02-24",
     "description": "Pengeluaran",
     "type": "expense",
