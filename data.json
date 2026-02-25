@@ -28,6 +28,13 @@
     "amount": "500000"
   },
   {
+    "date": "2026-02-25",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Gaji Seraf",
+    "amount": "150000"
+  },
+  {
     "date": "2026-02-24",
     "description": "Pengeluaran",
     "type": "expense",
