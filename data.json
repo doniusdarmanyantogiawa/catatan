@@ -21,6 +21,13 @@
     "amount": "3000000"
   },
   {
+    "date": "2026-03-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kirim Mama",
+    "amount": "1000000"
+  },
+  {
     "date": "2026-03-07",
     "description": "Pengeluaran",
     "type": "expense",
