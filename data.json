@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-04-24",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kirim Orang-tua",
+    "amount": "500000"
+  },
+  {
     "date": "2026-04-18",
     "description": "Pengeluaran",
     "type": "expense",
