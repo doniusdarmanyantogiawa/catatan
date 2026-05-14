@@ -28,6 +28,13 @@
     "amount": "2000000"
   },
   {
+    "date": "2026-05-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Top Up GO-PAY",
+    "amount": "10000"
+  },
+  {
     "date": "2026-04-24",
     "description": "Pengeluaran",
     "type": "expense",
