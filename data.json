@@ -7,6 +7,13 @@
     "amount": "500000"
   },
   {
+    "date": "2026-05-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Pengeluaran",
+    "amount": "700000"
+  },
+  {
     "date": "2026-04-24",
     "description": "Pengeluaran",
     "type": "expense",
