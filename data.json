@@ -35,6 +35,13 @@
     "amount": "10000"
   },
   {
+    "date": "2026-05-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Pulsa 2X",
+    "amount": "33000"
+  },
+  {
     "date": "2026-04-24",
     "description": "Pengeluaran",
     "type": "expense",
