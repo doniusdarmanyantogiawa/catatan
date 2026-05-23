@@ -7,6 +7,13 @@
     "amount": "213000"
   },
   {
+    "date": "2026-05-23",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Belanja Online",
+    "amount": "389000"
+  },
+  {
     "date": "2026-05-16",
     "description": "Pengeluaran",
     "type": "expense",
