@@ -21,6 +21,13 @@
     "amount": "150000"
   },
   {
+    "date": "2026-06-18",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Investasi RKU",
+    "amount": "2000000"
+  },
+  {
     "date": "2026-06-14",
     "description": "Pemasukan",
     "type": "income",
