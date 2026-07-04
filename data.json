@@ -21,6 +21,13 @@
     "amount": "165000"
   },
   {
+    "date": "2026-07-04",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Link ID",
+    "amount": "293000"
+  },
+  {
     "date": "2026-06-18",
     "description": "Pengeluaran",
     "type": "expense",
