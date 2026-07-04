@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-07-04",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Penarikan",
+    "amount": "200000"
+  },
+  {
     "date": "2026-06-18",
     "description": "Pengeluaran",
     "type": "expense",
