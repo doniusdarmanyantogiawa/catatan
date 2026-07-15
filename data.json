@@ -7,6 +7,13 @@
     "amount": "300000"
   },
   {
+    "date": "2026-07-15",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "3000000"
+  },
+  {
     "date": "2026-07-14",
     "description": "Pengeluaran",
     "type": "expense",
