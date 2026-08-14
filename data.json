@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-08-22",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Pemberian Ortu",
+    "amount": "1000000"
+  },
+  {
     "date": "2026-08-14",
     "description": "Pengeluaran",
     "type": "expense",
@@ -37,7 +44,7 @@
   {
     "date": "2026-08-14",
     "description": "Pengeluaran",
-    "type": "income",
+    "type": "expense",
     "category": "Investasi RKU",
     "amount": "1500000"
   },
