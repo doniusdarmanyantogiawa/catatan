@@ -28,6 +28,20 @@
     "amount": "50000"
   },
   {
+    "date": "2026-08-14",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "3000000"
+  },
+  {
+    "date": "2026-08-14",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Investasi RKU",
+    "amount": "1500000"
+  },
+  {
     "date": "2026-07-15",
     "description": "Pengeluaran",
     "type": "expense",
