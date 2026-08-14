@@ -14,6 +14,20 @@
     "amount": "127500"
   },
   {
+    "date": "2026-08-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Penarikan",
+    "amount": "200000"
+  },
+  {
+    "date": "2026-08-14",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Pemberian",
+    "amount": "50000"
+  },
+  {
     "date": "2026-07-15",
     "description": "Pengeluaran",
     "type": "expense",
