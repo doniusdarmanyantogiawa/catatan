@@ -1,5 +1,12 @@
 [
   {
+    "date": "2026-09-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Belanja Online",
+    "amount": "101000"
+  },
+  {
     "date": "2026-08-22",
     "description": "Pengeluaran",
     "type": "expense",
