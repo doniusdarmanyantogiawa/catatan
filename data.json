@@ -25,7 +25,7 @@
     "description": "Pengeluaran",
     "type": "expense",
     "category": "Pulsa",
-    "amount": "20.000"
+    "amount": "20000"
   },
   {
     "date": "2026-08-22",
@@ -201,6 +201,13 @@
     "type": "expense",
     "category": "Belanja Online",
     "amount": "389000"
+  },
+  {
+    "date": "2026-05-17",
+    "description": "Pengeluaran",
+    "type": "income",
+    "category": "Kasih Pinjam Pacik",
+    "amount": "400000"
   },
   {
     "date": "2026-05-16",
