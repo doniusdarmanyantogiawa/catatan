@@ -7,6 +7,27 @@
     "amount": "101000"
   },
   {
+    "date": "2026-09-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Pemberian Ortu",
+    "amount": "100000"
+  },
+  {
+    "date": "2026-09-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Belanja Online",
+    "amount": "190000"
+  },
+  {
+    "date": "2026-09-14",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Pulsa",
+    "amount": "20.000"
+  },
+  {
     "date": "2026-08-22",
     "description": "Pengeluaran",
     "type": "expense",
