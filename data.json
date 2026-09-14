@@ -205,7 +205,7 @@
   {
     "date": "2026-05-17",
     "description": "Pengeluaran",
-    "type": "income",
+    "type": "expense",
     "category": "Kasih Pinjam Pacik",
     "amount": "400000"
   },
