@@ -7,6 +7,20 @@
     "amount": "300000"
   },
   {
+    "date": "2026-11-06",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Investasi PLU",
+    "amount": "2000000"
+  },
+  {
+    "date": "2026-11-06",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Jual Kereta",
+    "amount": "5000000"
+  },
+  {
     "date": "2026-10-29",
     "description": "Pengeluaran",
     "type": "expense",
