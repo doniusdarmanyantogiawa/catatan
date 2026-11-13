@@ -14,6 +14,13 @@
     "amount": "335000"
   },
   {
+    "date": "2026-11-13",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Kasih Pinjam Pacik",
+    "amount": "500000"
+  },
+  {
     "date": "2026-11-06",
     "description": "Pengeluaran",
     "type": "expense",
