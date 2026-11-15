@@ -4,7 +4,21 @@
     "description": "Pengeluaran",
     "type": "expense",
     "category": "Penarikan",
-    "amount": "3200000"
+    "amount": "320000"
+  },
+  {
+    "date": "2026-11-15",
+    "description": "Pengeluaran",
+    "type": "expense",
+    "category": "Investasi PLU",
+    "amount": "1000000"
+  },
+  {
+    "date": "2026-11-15",
+    "description": "Pemasukan",
+    "type": "income",
+    "category": "Gaji",
+    "amount": "3000000"
   },
   {
     "date": "2026-11-13",
